@@ -1,0 +1,1 @@
+(self.webpackChunkdocusaurus_2_website=self.webpackChunkdocusaurus_2_website||[]).push([[385],{27204:function(e,u,n){"use strict";n.r(u);var t=n(67294),s=n(48171);u.default=function(){return t.createElement(s.Z,null,t.createElement("span",{className:"section"},"Page d'acceuil Centreon documentation 21.10"))}}}]);
